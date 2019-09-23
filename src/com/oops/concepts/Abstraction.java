@@ -23,7 +23,7 @@ public class Abstraction {
 		MyImplemetedClass m1=new MyImplemetedClass();
 		m1.m1();
 		m1.m2();
-		//..........s
+		//************
 	}
 
 }
